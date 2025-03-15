@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my YT channel "on-mission"
 - 🌱 I’m currently making educational content
-- 📫 How to reach me: comment section 
+- 📫 How to reach me: comment section & Email!
 
 # Following Study Materials are available:
 - Geological Structure of India: Overview **[Click here](https://github.com/flyingwizbee/Geological_Structure_of_India_Study_material/blob/main/geological_overview.pdf)**
