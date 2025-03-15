@@ -1,4 +1,4 @@
-## Welcome and Bonjour 👋
+# Welcome and Bonjour 👋
 
 <!--
 **flyingwizbee/flyingwizbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently making educational content
 - 📫 How to reach me: comment section 
 
-## Following Study Materials are available:
-- Geological Structure of India: Overview [Click here](https://github.com/flyingwizbee/Geological_Structure_of_India_Study_material/blob/main/geological_overview.pdf)
+# Following Study Materials are available:
+- Geological Structure of India: Overview **[Click here](https://github.com/flyingwizbee/Geological_Structure_of_India_Study_material/blob/main/geological_overview.pdf)**
 
-
+# FAQ's 👇
 
 ### How to Download the pdf? 🤔
 ![image](https://github.com/user-attachments/assets/0324cadc-d73b-46c8-b2df-ddffd7790372)
