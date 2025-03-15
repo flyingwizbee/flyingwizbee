@@ -14,18 +14,22 @@ Here are some ideas to get you started:
 
 # FAQ's 👇
 
-### How to Download the pdf? 🤔
+### Q1. How to Download the pdf? 🤔
 ![image](https://github.com/user-attachments/assets/0324cadc-d73b-46c8-b2df-ddffd7790372)
 
+---
 
-### How to check all the available Study materials?
+### Q2. How to check all the available Study materials?
 ![image](https://github.com/user-attachments/assets/2c248a35-40f9-4f78-8bb5-d83e1d283233)
 - click on the *Repositories* Tab to check the entire list.
 
-### Where to find the pdf after clicking on the Repository?
+---
+
+### Q3. Where to find the pdf after clicking on the Repository?
 ![image](https://github.com/user-attachments/assets/b980030a-c9d1-4355-b1b0-3e78f3254a01)
 - uploaded files will appear here! Simply click and view & download!
 
+---
 
 
 
