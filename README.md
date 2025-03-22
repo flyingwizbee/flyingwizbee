@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 # ✨Following Study Materials are available:
 ❇ **Geological Structure of India**: Overview ➡️ **[Click here](https://github.com/flyingwizbee/Geological_Structure_of_India_Study_material/blob/main/geological_overview.pdf)** <br>
-❇ **Indian Climatology**: Monsoon hidden concepts ➡️ **[click here](https://github.com/flyingwizbee/Indian-Climatology/blob/main/Indian%20Monsoon-Underlying%20story.pdf)**
+❇ **Indian Climatology**: Monsoon hidden concepts ➡️ **[Click here](https://github.com/flyingwizbee/Indian-Climatology/blob/main/Indian%20Monsoon-Underlying%20story.pdf)** <br>
+❇ **Industrial Locations on Map** ➡️ **[Click here](https://github.com/flyingwizbee/Industry/blob/main/README.md)**
 
 
 <div align="center">
